@@ -1,0 +1,15 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^4.43.0",
+    "sqlite3": "^4.0.6"
+  }
+}
